@@ -102,7 +102,7 @@ data:()=>({
 
 #### Estilo e Responsividade
 * Responsivo com base no v-row e v-col do Vuetify
-* Adapta automaticamente o número de colunas baseado na quantidade de arquivos
+* Adapta automaticamente o número de colunas
 
 ## Dependências
 * Vue 3
