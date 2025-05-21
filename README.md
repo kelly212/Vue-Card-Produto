@@ -18,7 +18,7 @@ Card de exibição de produto com layout moderno e responsivo. Exibe imagem do p
 Para usar o componente em seu projeto Vue 3, instale o pacote via NPM:
 
 ```bash 
-npm install v-card-projeto
+npm install v-card-produto
 ``` 
 
 ## Props
